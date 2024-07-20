@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ebolochil.github.io/sitemap
+Sitemap: https://ebolochil.github.io/app/sitemap
+Sitemap: https://ebolochil.github.io/assets/sitemap
+Sitemap: https://ebolochil.github.io/css/sitemap
+Sitemap: https://ebolochil.github.io/includes/sitemap
+Sitemap: https://ebolochil.github.io/item/sitemap
+Sitemap: https://ebolochil.github.io/src/sitemap
